@@ -1,2 +1,1 @@
-# docs
-Taking tribal coworking knowledge and writing it down
+See the Wiki in this repo for the docs: https://github.com/cowork-evansville/docs/wiki
